@@ -29,26 +29,26 @@ https://rickandmorty-ga.netlify.app/
 
 ## Table of contents
 + Brief
-+ Technologies used
-  - API
-  - Frontend
-  - Development tools
++ Technologies used:
+  - API,
+  - Frontend,
+  - Development tools.
 + Installation
-+ Process
-  - Planning
-    + Concept
-    + Organisation
-  - Frontend
-    + Components
-    + Styling
-  - Project walkthrough
-+ Bugs, challenges, wins
-  - Bugs
-  - Challenges
-  - Wins
-+ Extra features and key learnings
-  - Extra features
-  - Key learnings
++ Process:
+  - Planning:
+    + Concept,
+    + Organisation.
+  - Frontend:
+    + Components,
+    + Styling.
+  - Project walkthrough.
++ Bugs, challenges, wins:
+  - Bugs,
+  - Challenges,
+  - Wins.
++ Future features and key learnings:
+  - Future features,
+  - Key learnings.
 
 <br />
 
@@ -125,7 +125,7 @@ Ineta and I wanted to create something fun and colourful. We wanted to find an A
 
 Since our hackathon lasted only two days, and it was the first time when we didn't code solo, we decided to realize our project from the start to the end by doing everything together. To realize this, we used VSCode live share, where one of us was typing. It helped us a lot because two pairs of eyes are better than one. We could easily spot whether anything was missing in our code, and we could debug our code faster. Moreover, it was a fantastic experience, as we could consolidate our knowledge with this coding approach.
 
-+ ### Front-end (day 1 – day 2)
++ ### Frontend (day 1 – day 2)
 
 #### ➡️ Components
 
@@ -220,7 +220,7 @@ This was the first project in which Ineta and I worked with the CSS framework Bu
 
 ## Future features and key learnings
 
-+ ### Extra features
++ ### Future features
 
   - Making our website more mobile friendly.
   - Implementing the filter function properly. It would be cool if the characters could be filtered on the basis of more conditions, not only on one. 
